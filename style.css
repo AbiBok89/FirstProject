@@ -2,8 +2,17 @@ body{
     background: #333
 }
 
+p{
+    text-align: center;
+    color: aqua;
+}
 
-
+.logo_img{
+    
+    width:200px;
+    height:200px;
+    
+}
 
 
 
@@ -13,7 +22,7 @@ body{
     text-align: center;
 }
 
-.Logo{
-    color: rgb(176, 221, 71);
-    text-align: center;
+
+footer{
+    
 }
